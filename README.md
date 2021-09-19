@@ -1,5 +1,5 @@
 # Financial Institution with Assembly Language 
-The attach file is the assignment I did with other 3 teammate when I was studying bachelor of science in managenment mathematics with computing at Tun Abdul Rahman University College. This assignment is do a program that can use by financial institution(bank) or else and this assignment is mostly code by assembly language and some C++.
+The attach file is the assignment I did with other 3 teammate when I was studying bachelor of science in managenment mathematics with computing at Tun Abdul Rahman University College. This assignment is to do a program that can use by financial institution(bank) or else and this assignment is mostly code by assembly language and some C++.
 
 ### Module
 This assignment contant 4 module which are login, saving and withdraw, transfer and loan. 
